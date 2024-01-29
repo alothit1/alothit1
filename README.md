@@ -1,16 +1,15 @@
-### Hi there 👋
+### Alo Thịt
 
-<!--
-**alothit1/alothit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alo Thịt chuyên bán thịt heo (thịt lợn), thịt chó, thịt bò, thịt dê, thịt nai và nhiều loại thịt khác. Đặt và giao hàng online.
 
-Here are some ideas to get you started:
+- Địa chỉ: Số 5, Đường Nguyễn Trãi, phường Liên Bảo, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 02113616618
+
+- Website: https://alothit.vn/
+
+https://twitter.com/AloThit53077
+
+https://www.linkedin.com/in/alothit1/
+
+https://www.pinterest.com/alothit1/
